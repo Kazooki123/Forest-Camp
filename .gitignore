@@ -1,0 +1,70 @@
+# Meta files
+Library/
+obj/
+*.meta
+*.fbx
+*.unityproj
+*.unity
+.vs
+.fleet
+
+# Temporary files
+Temp/
+*.log
+*.tmp
+*.userprefs
+
+# Editor files
+Assets/StreamingAssets/
+Assets/AssetStore/
+Assets/Plugins/
+*.cs
+*.exe
+*.sln
+*.suo
+*.user
+
+# Plugins
+**/Editor
+
+# Generated files
+**/GeneratedClass*.cs
+**/GeneratedClass.g.*
+
+# Project settings
+ProjectSettings/
+
+# Third party license files
+ThirdPartyNotices.txt
+*.asmdef
+*.pdb
+
+# iOS specific
+**/build
+**/DerivedData
+xcuserdata/
+
+# Android specific
+*.apk
+*.keystore
+
+# Windows specific
+**/LocalAppData
+Win32/
+
+# MacOS specific
+*.xcarchive
+build/
+
+# Unity Cloud Build cache
+**/.ucbcachedata
+
+UserSettings/
+
+_TerrainAutoUpgrade/
+ADG_Textures/
+Conifers/
+Grass And Flowers Pack 1/
+PleebieJeebies/
+SwampHouse/
+Watch_tower/
