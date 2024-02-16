@@ -61,8 +61,11 @@
     <Compile Include="Assets\Grass And Flowers Pack 1\Example Scene\SimpleTextureDrawing.cs" />
     <Compile Include="Assets\Scripts\SolidPlane.cs" />
     <Compile Include="Assets\Scripts\OpenDoors.cs" />
+    <Compile Include="Assets\Scripts\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\MainMenuMusic.cs" />
     <Compile Include="Assets\Conifers\Render Pipeline Support\Built-in RP\CTI Runtime Components\Scripts\CTI_CustomWind.cs" />
     <Compile Include="Assets\PleebieJeebies\Scripts\LightPreset.cs" />
+    <Compile Include="Assets\Scripts\RoomCreation.cs" />
     <Compile Include="Assets\Conifers\Render Pipeline Support\Built-in RP\CTI Runtime Components\Scripts\CTI_Utils.cs" />
     <Compile Include="Assets\Scripts\TimeController.cs" />
     <Compile Include="Assets\PleebieJeebies\Scripts\LightManager.cs" />
